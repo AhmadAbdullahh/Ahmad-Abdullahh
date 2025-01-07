@@ -1,4 +1,4 @@
-# Ahmad-Abdullahh
+# AhmadAbdullahh
 # 💫 About Me:
 Freshman at ASU <br>Learning ML and neural networks <br>Hackathons<br>Java, JavaScript , Python
 
